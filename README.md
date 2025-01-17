@@ -3,13 +3,10 @@
 
 ## 💻 Sobre o projeto
 
-Festas chegando? Grupos de amigos secretos surgindo? Que tal inovar, usando esse projeto e sorteando seu amigo secreto de forma dinâmica e intuitiva?
-
-Ao rodar esse projeto em um navegador local, você pode incluir seus amigos na lista e depois sortear de forma dinâmica. Não se preocupe, esse projeto NUNCA duplica o resultado.
+Chegou a hora de inovar na sua próxima sessão de RPG ou jogo de tabuleiro! Que tal usar um sorteio dinâmico e intuitivo para determinar quem será o mestre do jogo, os personagens, ou até as equipes? Com esse projeto, você pode personalizar o sorteio para se adequar a qualquer situação, seja no universo de um jogo de tabuleiro ou no enredo de uma campanha de RPG. Ao rodar esse projeto em um navegador local, você pode adicionar facilmente os jogadores, e o sorteio será feito de maneira automática, garantindo que ninguém seja repetido e tudo ocorra de forma justa e divertida. Ideal para tornar qualquer partida mais interativa e empolgante!
 
 ## 🔗 Link do projeto
-- [Amigo secreto online](https://rafael18.github.io/challenge-amigo-secreto/)
-
+-
 ## 🚀 Tecnologias
 
   <div style="flex-basis: 48%;">
@@ -19,5 +16,5 @@ Ao rodar esse projeto em um navegador local, você pode incluir seus amigos na l
   </div>
   
 # 🤓 Time
-- [Rafael Batista](https://github.com/Rafael18)
+- 
 
